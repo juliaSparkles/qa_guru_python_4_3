@@ -6,5 +6,5 @@ def test_two():
     assert 10 > 1
 
 
-def test():
+def test_3():
     assert 11 > 0
