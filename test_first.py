@@ -7,4 +7,4 @@ def test_two():
 
 
 def test():
-    assert 11 > 3
+    assert 11 > 2
